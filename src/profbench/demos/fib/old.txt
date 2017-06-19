@@ -1,0 +1,22 @@
+BenchmarkFib-8   	   30000	     52428 ns/op
+BenchmarkFib-8   	   30000	     53712 ns/op
+BenchmarkFib-8   	   30000	     55207 ns/op
+BenchmarkFib-8   	   30000	     55291 ns/op
+BenchmarkFib-8   	   30000	     54775 ns/op
+BenchmarkFib-8   	   30000	     56049 ns/op
+BenchmarkFib-8   	   30000	     54140 ns/op
+BenchmarkFib-8   	   30000	     52796 ns/op
+BenchmarkFib-8   	   30000	     53001 ns/op
+BenchmarkFib-8   	   30000	     53284 ns/op
+BenchmarkFib-8   	   30000	     53903 ns/op
+BenchmarkFib-8   	   30000	     54549 ns/op
+BenchmarkFib-8   	   30000	     53748 ns/op
+BenchmarkFib-8   	   30000	     52973 ns/op
+BenchmarkFib-8   	   30000	     52515 ns/op
+BenchmarkFib-8   	   30000	     54947 ns/op
+BenchmarkFib-8   	   30000	     53009 ns/op
+BenchmarkFib-8   	   30000	     54137 ns/op
+BenchmarkFib-8   	   30000	     52755 ns/op
+BenchmarkFib-8   	   30000	     53402 ns/op
+PASS
+ok  	profbench/demos/fib	43.632s
